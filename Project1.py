@@ -27,7 +27,7 @@ while(read != ""):
 	) 
 	#Write the response to the output file.
 	f2.write(str(x)+". ")
-	f2.write(read)
+	f2.write(read + "\n")
 	f2.write(temp["choices"][0]["message"]["content"])
 	f2.write("\n\n")
 
