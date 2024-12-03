@@ -1,0 +1,9 @@
+Bad
+Good
+Positive
+Negative
+Neutral
+Okay
+alright
+really Good
+Not Great
