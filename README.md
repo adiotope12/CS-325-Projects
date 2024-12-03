@@ -19,3 +19,5 @@
    -(Product Name).txt files will contain the reviews scraped from Amazon
    -Sentiments_(Product Name).txt files will contain a list of sentiments that correspond to each review and whether or not it was positive, neutral, or negative
 3. When the program is finished, a graph of the data created using matplotlib and numpy will appear similarly to the one pictured below.
+![image](https://github.com/user-attachments/assets/23f7d5bd-3143-4eb2-9f4e-14343be88c53)
+
